@@ -1,1 +1,3 @@
-# Barbero_Belmonte_Galvan_Entrega3_IA
+# TP Inteligencia Aritificial - Prestamatch
+
+Equipo: Barbero Lucía - Belmonte María Luz- Galván Sol Morena
